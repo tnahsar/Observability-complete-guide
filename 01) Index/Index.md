@@ -269,25 +269,4 @@
 
 ---
 
-## ✅ How We’ll Proceed (Recommended)
 
-👉 **Step-by-step approach (best for retention):**
-
-1. Start with **Chapter 1: What is Monitoring**
-2. I’ll write **clean notes**
-
-   * Simple explanation
-   * Real-world examples
-   * Interview-ready points
-3. You say **“Continue to Chapter X”**
-4. At the end → we’ll have **complete professional notes**
-
----
-
-### 🔥 Next Step
-
-If you’re ready, just reply:
-
-> **“Yes, start with Chapter 1: What is Monitoring”**
-
-I’ll begin immediately.
